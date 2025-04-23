@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #66bb77;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.input-group-text{
+    background-color: #05a6ff;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn{
+    background-color: #05a6ff;
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+.form-control, .form-select{
+    box-shadow: none !important;
+}
